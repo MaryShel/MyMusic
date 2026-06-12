@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Music</string>
+    <string name="splash_title">My Music</string>
+    <string name="splash_subtitle">Your Personal Music Collection</string>
+    <string name="main_title">Music Library</string>
+    <string name="select_song">Select Song</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="stop">Stop</string>
+    <string name="loading">Loading...</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="artist_unknown">Unknown Artist</string>
+    <string name="song_duration">Duration: %s</string>
+    <string name="paused_music">Music Paused</string>
+    <string name="music_library">Music Library</string>
+    <string name="back">Back</string>
+
+    <!-- Songs -->
+    <string name="song_1_title">Summer Vibes</string>
+    <string name="song_1_artist">Alex Johnson</string>
+    <string name="song_1_duration">3:45</string>
+
+    <string name="song_2_title">Night Dreams</string>
+    <string name="song_2_artist">Maria Garcia</string>
+    <string name="song_2_duration">4:20</string>
+
+    <string name="song_3_title">Electric Energy</string>
+    <string name="song_3_artist">The Beats</string>
+    <string name="song_3_duration">3:15</string>
+
+    <string name="song_4_title">Romantic Hour</string>
+    <string name="song_4_artist">Luna Sky</string>
+    <string name="song_4_duration">4:50</string>
+
+    <string name="song_5_title">Jazz Nights</string>
+    <string name="song_5_artist">Smooth Jazz Trio</string>
+    <string name="song_5_duration">5:30</string>
+
+    <string name="song_6_title">Urban Rhythm</string>
+    <string name="song_6_artist">City Sounds</string>
+    <string name="song_6_duration">3:55</string>
+</resources>
